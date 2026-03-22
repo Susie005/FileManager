@@ -1,0 +1,11 @@
+﻿  funToExchange.cpp
+  funToShowTitle.cpp
+C:\Users\lenovo\Desktop\lsx\FileManager\FileManager\funToExchange.cpp(150,7): warning C4551: 缺少参数列表的函数调用
+C:\Users\lenovo\Desktop\lsx\FileManager\FileManager\funToShowTitle.cpp(360,2): warning C4102: “FRESH_ZONE”: 未引用的标签
+  main.cpp
+C:\Users\lenovo\Desktop\lsx\FileManager\FileManager\main.cpp(30,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  usedBottomFunc.cpp
+  UsedDefinitions.h
+  usedOperateFunc.cpp
+  正在生成代码...
+  FileManager.vcxproj -> C:\Users\lenovo\Desktop\lsx\FileManager\x64\Debug\FileManager.exe
